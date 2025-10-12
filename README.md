@@ -1,2 +1,4 @@
 # SpotiSort
-Sort my playlist by release data for future playlist division
+Sort playlists by release data 
+This is for my own future playlist division
+
