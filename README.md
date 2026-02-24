@@ -2,7 +2,7 @@
 Spotisort is a small script to sort Spotify playlists by release date from oldest to newest.
 
 ## Requirements
-- [Spotipy](https://github.com/spotipy-dev/spotipy) module (`pip3 install spotipy`)
+- [Spotipy](https://github.com/spotipy-dev/spotipy) module (`pip install spotipy`)
 - A [Spotify app](https://developer.spotify.com/dashboard/applications)
 
 
@@ -11,7 +11,7 @@ Spotisort is a small script to sort Spotify playlists by release date from oldes
 git clone https://github.com/alex22prok/SpotiSort
 ```
  
-Remember to edit `config.ini` with the data you got from the Spotify app. The Redirect URI inserted has to be whitelisted in the Spotify app settings as in figure.
+Edit `config.ini` with the data you got from the Spotify app. The Redirect URI inserted has to be whitelisted in the Spotify app settings
 
 
 ## Usage
